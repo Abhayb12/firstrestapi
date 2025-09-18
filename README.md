@@ -1,2 +1,2 @@
-This is a api for hospital management.
+My first api for learning and understanding spring boot in which this is a student management system.
 
